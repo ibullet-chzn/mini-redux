@@ -1,0 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const reduxname = 'abc';
+exports.default = reduxname;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBLE1BQU0sU0FBUyxHQUFXLEtBQUssQ0FBQztBQUVoQyxrQkFBZSxTQUFTLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCByZWR1eG5hbWU6IHN0cmluZyA9ICdhYmMnO1xuXG5leHBvcnQgZGVmYXVsdCByZWR1eG5hbWU7XG4iXX0=

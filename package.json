@@ -1,0 +1,25 @@
+{
+  "name": "mini-redux",
+  "version": "1.0.0",
+  "description": "redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibullet-chzn/mini-redux.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "ibullet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibullet-chzn/mini-redux/issues"
+  },
+  "homepage": "https://github.com/ibullet-chzn/mini-redux#readme",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
